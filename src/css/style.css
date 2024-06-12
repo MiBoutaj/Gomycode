@@ -1,0 +1,17 @@
+
+a:link {
+    color: tomato;
+}
+
+a:visited {
+    color: rgb(89, 255, 71);
+}
+
+h1:active{
+    color: #0000FF
+}
+h1{
+    border: 1px solid red;
+    padding: 10px 20px 30px 70px;
+    margin: -10px 50px 20px 100px;
+}
